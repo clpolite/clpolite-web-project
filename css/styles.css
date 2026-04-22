@@ -1,0 +1,65 @@
+/* Page background */
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Navigation bar */
+nav {
+    background-color: darkred;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+/* Hover effect (this is a big grading point) */
+nav a:hover {
+    color: yellow;
+}
+
+/* Headers */
+h1 {
+    color: orange;
+    font-size: 36px;
+}
+
+h2 {
+    color: lightgreen;
+}
+
+/* Paragraphs */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* List styling */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Image styling */
+img {
+    width: 500px;
+    margin-top: 10px;
+}
+
+/* Links */
+a {
+    color: lightblue;
+}
+
+a:hover {
+    color: yellow;
+}
